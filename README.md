@@ -1,7 +1,7 @@
-# Welcome to the HUDmuffin Project
+# Welcome to the HUDmuffin Project Repository Page!
 #
 #This is the Backend coding Repository page.
-#In ths repository you may be able to commit code related to the API used to pull data required to be displayed on the AR
+#In this repository you may be able to commit code related to the API used to pull data required to be displayed on the AR
 #
 #
 #
